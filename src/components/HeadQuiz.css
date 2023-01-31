@@ -1,0 +1,22 @@
+.headerDiv{
+    background-color: black;
+
+}
+#HeaderDiv{
+    background-color: black;
+
+}
+.MainHeadDiv{
+    background-color: rgb(188, 231, 35);
+    border-radius: 1em;
+}
+
+.MainHeading{
+    font-weight: 700;
+}
+
+.welcomeDiv{
+    background-color: black;
+    color: rgb(188, 231, 35);
+}
+

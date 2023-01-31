@@ -1,0 +1,9 @@
+.buttons-sub, .div-points{
+    display: inline;
+    width: 7em;
+}
+
+.actual-btn{
+    /* width: 7em; */
+    text-align: center;
+}
